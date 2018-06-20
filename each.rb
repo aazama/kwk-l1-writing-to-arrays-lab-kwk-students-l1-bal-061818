@@ -7,4 +7,5 @@ end
 introduction = []
 students.each do |name|
   introductions << "My name is #{name}."
-end 
+end
+puts introductions
